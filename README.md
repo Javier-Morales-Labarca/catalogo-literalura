@@ -1,4 +1,4 @@
-<h1 align="center"> Catálogo de Libros Interactivo </h1>
+<h1 align="center"> Catálogo de Libros por Consola </h1>
 
 ## Datos de Proyecto:
 Título: Challenge Backend Java - LiterAlura
